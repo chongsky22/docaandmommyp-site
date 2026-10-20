@@ -1,0 +1,100 @@
+{
+  "name": "Doc A & Mommy P",
+  "url": "https://docaandmommyp.com/",
+  "dateModified": "2026-10-20",
+  "country": "PH",
+  "languages": [
+    "Taglish",
+    "Filipino",
+    "English"
+  ],
+  "niche": [
+    "pediatrics",
+    "parenting",
+    "child health"
+  ],
+  "credential": {
+    "role": "Pediatrician",
+    "experienceYears": "20+",
+    "country": "PH",
+    "details": "shared with brands on request"
+  },
+  "platforms": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/docaandmommyp",
+      "followers": 867000,
+      "asOf": "2026-10-20"
+    },
+    {
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@docaandmommyp",
+      "followers": 347000,
+      "asOf": "2026-10-20"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@DocAMommyP",
+      "subscribers": 282000,
+      "asOf": "2026-10-20"
+    }
+  ],
+  "audience": {
+    "primaryCountry": "PH",
+    "language": "Taglish",
+    "fullAnalytics": "shared with brands on request"
+  },
+  "rates": "on request",
+  "terms": [
+    "Signed contract before deliverables",
+    "One round of revisions",
+    "Ad rights and exclusivity agreed per project"
+  ],
+  "willNotPromote": [
+    "Anything that breaks the Philippine Milk Code (EO 51)",
+    "Products not registered with FDA Philippines",
+    "Treat/prevent/cure claims",
+    "Doc-A endorsing a product"
+  ],
+  "contact": {
+    "email": "docaandmommyp@gmail.com",
+    "phone": "+63 917 521 9187",
+    "replyWithinHours": 24,
+    "briefTemplate": "https://docaandmommyp.com/brief-template.txt"
+  },
+  "pastBrands": [
+    "Nutrilin (Unilab)",
+    "MamyPoko (Unicharm)",
+    "Aspen Philippines",
+    "Proderma"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "name": "Brief",
+      "detail": "You send the product, the goal and the dates."
+    },
+    {
+      "step": 2,
+      "name": "Claims check",
+      "detail": "FDA registration and wording, before anything is agreed."
+    },
+    {
+      "step": 3,
+      "name": "Shoot",
+      "detail": "Doc A teaches the topic; Alex handles the product."
+    },
+    {
+      "step": 4,
+      "name": "Post",
+      "detail": "On the platforms agreed, with the sponsored tag."
+    }
+  ],
+  "formats": [
+    "Brand campaign video with Doc A",
+    "UGC video with Alex",
+    "Live",
+    "Event talk"
+  ],
+  "combinedFollowers": "1.49M+"
+}
